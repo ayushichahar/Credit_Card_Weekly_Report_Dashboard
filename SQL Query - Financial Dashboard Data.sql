@@ -27,7 +27,7 @@ CREATE TABLE cc_detail (
 );
 
 
--- 2. Create cc_detail table
+-- 2. Create cust_detail table
 
 CREATE TABLE cust_detail (
     Client_Num INT,
@@ -65,6 +65,8 @@ FROM 'D:\customer.csv'
 DELIMITER ',' 
 CSV HEADER;
 
+--OR use Import/Export data-table for importing the CSV file data if above copy command was not working 
+   -- In which simply choose the filename from local device and in option setting turn ON Header if it's off than click "OK"
 
 
 -- If you are getting below error, then use the below point:  
