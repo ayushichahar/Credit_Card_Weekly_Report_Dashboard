@@ -1,3 +1,16 @@
+# CREDIT CARD FINANCIAL DASHBOARD
+
+Credit Card Transaction Power BI Dashboard
+
+## Project Overview: 
+
+To develop a comprehensive credit card weekly dashboard that provides a real-time insights into key performance metrics and treds, enabling stakeholders to monitor and analyze credit card operations effectively. 
+
+## Responsibilities:
+- Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
+- Streamlined data processing & analysis to monitor key performance metrics and trends.
+
+### These explanations are provided before you begin creating a dashboard: 
  First Create a DATABASE in MySql or in Postgre for which I'm Using Postgre Sql
  Next, Create Two Tables : 1. CreditCard_Detail
                            2. Customer_Detail
